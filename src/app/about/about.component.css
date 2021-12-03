@@ -1,0 +1,9 @@
+.flx-wbe{
+    display: flex;
+}
+.txt-cen{
+    flex:1rem;   
+}
+.mar-l {
+    margin-left: 1rem
+}

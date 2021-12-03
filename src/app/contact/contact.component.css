@@ -1,0 +1,20 @@
+.flx-wbe{
+    display: flex;
+}
+
+.txt-cen{
+    flex:1rem;   
+}
+
+.mar{
+    margin: 0.5rem
+}
+
+.mar-l{
+    margin-left: 0.5rem;
+}
+
+.container{
+    border: 1px solid lightgray;
+    padding: 10px;
+}

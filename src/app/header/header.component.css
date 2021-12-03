@@ -1,0 +1,14 @@
+.head-style{
+    background-color:aqua;
+    padding: 1rem;
+    border: 1px solid red;
+    display: flex ;
+    list-style-type: none;
+    margin: 0;
+}
+.mar-l{
+    margin-left: 15px;
+}
+.clr-black{
+    color:black;
+}
